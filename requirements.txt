@@ -1,0 +1,6 @@
+pandas
+ipython
+langchain 
+langchain-groq 
+langchain-core
+langchain-community
